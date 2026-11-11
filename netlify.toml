@@ -1,0 +1,3 @@
+# Sitio estático: no necesita comando de compilación.
+[build]
+  publish = "public"

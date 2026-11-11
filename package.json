@@ -1,0 +1,14 @@
+{
+  "name": "psi-estudio-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PSI Estudio para GitHub y Netlify, con validación de acceso y banco integrado.",
+  "scripts": {
+    "start": "node scripts/preview.mjs",
+    "test": "node --test tests/web.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
